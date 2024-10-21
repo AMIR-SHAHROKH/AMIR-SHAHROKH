@@ -21,7 +21,7 @@ I'm a passionate **Back-End Developer** with a focus on building scalable web ap
   - Celery ![Celery](https://img.shields.io/badge/Celery-5.0-yellow)
 
 - **Containerization**: 
-  - Docker 🐳 (Docker Whale
+  - Docker 🐳 (Docker Whale)
   
 ## 🌱 I’m Currently Learning
 - Advanced Docker concepts ![Docker](https://img.shields.io/badge/Docker-20.10.8-2496ED.svg?style=flat&logo=docker&logoColor=white)
@@ -42,8 +42,9 @@ Here are some of my notable projects:
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMIR-SHAHROKH&show_icons=true&hide_title=true&theme=radical)
-![Contribution Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AMIR-SHAHROKH&bg_color=1A1B27&color=FFA500&line=FF6347&point=FFFFFF&area=true&hide_border=true)
-![Recent Pull Requests](https://github-readme-stats.vercel.app/api/pulls/?username=AMIR-SHAHROKH&theme=radical)
+![Contribution Activity](https://github-readme-stats.vercel.app/api?username=AMIR-SHAHROKH&show_icons=true&hide_title=true&theme=radical&count_private=true&include_all_commits=true)
+![Commits](https://github-readme-stats.vercel.app/api/commits?username=AMIR-SHAHROKH&theme=radical)
+
 
 ## 📫 How to Reach Me
 - **LinkedIn**: (https://www.linkedin.com/in/amir-shahrokh)
