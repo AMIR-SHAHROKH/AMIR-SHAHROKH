@@ -18,7 +18,7 @@ I'm a passionate **Back-End Developer** with a focus on building scalable web ap
   - Celery
 - **Containerization**: 
   - Docker
-(https://img.shields.io/crates/size/:crate/#ECD53F)
+https://img.shields.io/badge/any_text-you_like-blue
 ## 🌱 I’m Currently Learning
 - Advanced Docker concepts
 - Microservices architecture
@@ -33,8 +33,8 @@ Here are some of my notable projects:
  
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMIR-SHAHROKH&show_icons=true&hide_title=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-SHAHROKH&layout=compact&theme=radical)
+!(https://github-readme-stats.vercel.app/api?username=AMIR-SHAHROKH&show_icons=true&hide_title=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-SHAHROKH&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - **LinkedIn**: (https://www.linkedin.com/in/amir-shahrokh)
@@ -44,5 +44,3 @@ Here are some of my notable projects:
 I hate grapefruits!
 
 ---
-
-https://img.shields.io/crates/size/:crate/#ECD53F
