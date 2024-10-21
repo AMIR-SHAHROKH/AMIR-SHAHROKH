@@ -41,7 +41,6 @@ Here are some of my notable projects:
 
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMIR-SHAHROKH&show_icons=true&hide_title=true&theme=radical)
 ![Contribution Activity](https://github-readme-stats.vercel.app/api?username=AMIR-SHAHROKH&show_icons=true&hide_title=true&theme=radical&count_private=true&include_all_commits=true)
 
 
