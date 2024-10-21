@@ -18,11 +18,17 @@ I'm a passionate **Back-End Developer** with a focus on building scalable web ap
   - Celery
 - **Containerization**: 
   - Docker
-https://img.shields.io/badge/any_text-you_like-blue
 ## 🌱 I’m Currently Learning
 - Advanced Docker concepts
 - Microservices architecture
+- AI
 - API development with Django Rest Framework
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Django](https://img.shields.io/badge/Django-3.2-green)
+![Redis](https://img.shields.io/badge/Redis-6.0-orange)
+![Celery](https://img.shields.io/badge/Celery-5.0-yellow)
+
 
 ## 🚀 Projects
 Here are some of my notable projects:
@@ -32,9 +38,10 @@ Here are some of my notable projects:
 - [Project 3](https://github.com/MohRezam/Django-cafe-project): Collaborated on an online cafe menu/order  project, where I contributed to its back-end
  
 
+
 ## 📊 GitHub Stats
-!(https://github-readme-stats.vercel.app/api?username=AMIR-SHAHROKH&show_icons=true&hide_title=true&theme=radical)
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-SHAHROKH&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMIR-SHAHROKH&show_icons=true&hide_title=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-SHAHROKH&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - **LinkedIn**: (https://www.linkedin.com/in/amir-shahrokh)
